@@ -99,7 +99,7 @@ Aplikasi Antrian Puskesmas Dinkes Kota Bandung digunakan oleh berbagai peran (ro
 
     -   Memilih jenis layanan (pasien baru/lama, poli, atau pembayaran).
 
-    -   Menunggu pemanggilan antrian sesuai kebutuhan (pendaftaran, poli, kasir, atau apotek).
+    -   Menunggu pemanggilan antrian sesuai kebutuhan (pendaftaran, poli, kasir).
 
     -   Mendapatkan pelayanan kesehatan setelah dipanggil oleh petugas.
 
@@ -651,9 +651,28 @@ Gambar 6. 7 Keterangan icon tambahan di Pelayanan
 
 ### Aplikasi Antrian
 
-> Aplikasi Antiran Development : http://10.11.10.23
+
+
+> Aplikasi Antiran Development
+
+| Aplikasi Antrian Dev       | Akses                                     | Keterangan              |
+| -------------------------- | ----------------------------------------- | ----------------------- |
+| Jaringan Intranet (Dinkes) | http://10.11.10.23                        | Untuk Belajar Pemakaian |
+| Jaringan Internet (Public) | http://http://103.189.138.56              | Untuk Belajar Pemakaian |
+
+> Aplikasi Antiran Production
+
+| Aplikasi Antrian Prod      | Akses              | Keterangan          |
+| -------------------------- | ------------------ | ------------------- |
+| Jaringan Intranet (Dinkes) | http://10.00.00.00 | Pemakaian data Real |
+| Jaringan Internet (Public) | http://10.00.00.00 | Pemakaian data Real |
+
 
 ### Aplikasi SIKDA Kota Bandung
 
-> Aplikasi SIKDA Production (Live) :\
-> http://sikda.dinkes-bandung.id/sikda_3.0/
+>Aplikasi SIKDA Development: 
+
+| SIKDA Dev                  | Akses                    | Keterangan              |
+| -------------------------- | ------------------------ | ----------------------- |
+| Jaringan Intranet (Dinkes) | http://10.11.10.23:85    | Untuk Belajar Pemakaian |
+| Jaringan Internet (Public) | http://103.189.138.56:85 | Untuk Belajar Pemakaian |
