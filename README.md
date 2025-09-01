@@ -641,7 +641,12 @@ Gambar 6. 7 Keterangan icon tambahan di Pelayanan
 
 # LAMPIRAN
 
+## Manual Book PDF
+
+> Petunjuk Teknis / Manual Book versi PDF : <a href="https://drive.google.com/file/d/1ucNyZfD94ymCCKPHEgbAdJelifDYH-7u/view?usp=sharing" target="_blank">Lihat / Download disini</a>
+
 ## Link Akses Aplikasi
+
 
 ### Aplikasi Antrian
 
