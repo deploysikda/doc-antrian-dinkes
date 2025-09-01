@@ -1,3 +1,4 @@
+![logo-antrian](media/logo-antrian-transparent.png)
 # DOKUMENTASI APLIKASI ANTRIAN DINKES KOTA BANDUNG
 
 # PENDAHULUAN
