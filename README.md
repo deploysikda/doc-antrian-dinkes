@@ -336,16 +336,13 @@ Gambar 2. 20 Download Aplikasi Server Antrian
 
 Setelah Download file berbentuk zip, silahkan untuk di extract terlebih dahulu kemudian klik dua kali untuk install aplikasi server antrian, jika sudah ter install maka server antrian akan langsung online dan berjalan.
 
-[]{#_Toc207289621 .anchor}Gambar 2. 21 Proses Instalasi Aplikasi Server
-Antrian
+Gambar 2. 21 Proses Instalasi Aplikasi Server Antrian
 
-![](media/image25.png){width="5.476388888888889in"
-height="1.8651027996500438in"}
+![](media/server-install-proses.png)
 
-[]{#_Toc207289622 .anchor}Gambar 2. 22 Aplikasi Server Antrian Berjalan
+Gambar 2. 22 Aplikasi Server Antrian Berjalan
 
-![](media/image26.png){width="5.308541119860018in"
-height="2.551346237970254in"}
+![](media/server-berjalan.png)
 
 ### Penyesuaian Pengaturan Aplikasi Antrian Server
 
@@ -353,11 +350,11 @@ Setelah Server berjalan maka kita harus menyesuaikan alamat ip server di aplikas
 
 Gambar 2. 23 Pengaturan Master Puskesmas Aplikasi Antrian
 
-![](media/image27.png)
+![](media/atur-puskesmas.png)
 
 Gambar 2. 24 Penyesuaian IP Server Antrian
 
-![](media/image28.png)
+![](media/atur-puskesmas-ip.png)
 
 IP server yang berjalan ditujukan oleh Gambar 2.22 Aplikasi Server Antrian Berjalan.
 
@@ -367,11 +364,11 @@ Untuk mengatur Video Promosi Kesehatan kita bisa ambil video dari youtube dengan
 
 Gambar 2. 25 Proses mengambil link Video Promosi Kesehatan
 
-![](media/image29.png)
+![](media/atur-puskesmas-get-link.png)
 
 Gambar 2. 26 Menambahkan Video Promosi Kesehatan
 
-![](media/image30.png)
+![](media/atur-puskesmas-video-promkes.png)
 
 ## Setting Audio dan Display Pemanggilan
 
@@ -383,15 +380,15 @@ Set audio dan display tidak hanya ada di akun admin puskesmas, tetapi juga terse
 
 Gambar 2. 27 Menu Set Audio dan Display Aplikasi Antrian Online
 
-![](media/image31.png)
+![](media/set-display-audio.png)
 
 Gambar 2. 28 Set Audio Aplikasi Antrian Berjalan
 
-![](media/image32.png)
+![](media/set-audio-berjalan.png)
 
 Gambar 2. 29 Set Display Aplikasi Antrian Berjalan
 
-![](media/image33.png)
+![](media/set-display-berjalan.png)
 
 # PENGGUNAAN UNTUK PASIEN
 
@@ -403,7 +400,7 @@ Aplikasi Antrian bisa diakses menggunakan browser, jika sudah di akses dan login
 
 Gambar 3. 1 Tampilan Anjungan Mandiri untuk Cetak Antrian Pasien
 
-![](media/image34.png)
+![](media/anjungan-mandiri.png)
 
 ### Cetak Antrian Pasien Baru
 
@@ -411,31 +408,31 @@ Pasien Baru adalah pasien yang belum pernah melakukan pelayanan kesehatan di pus
 
 Gambar 3. 2 Cetak Tiket Antrian Pasien Baru Umum & JKN/BPJS
 
-![](media/image35.png)
+![](media/anjungan-pasien-umum-jkn.png)
 
 Gambar 3. 3 Cetak Tiket Antrian Pasien Baru Umum Masukan NIK
 
-![](media/image36.png)
+![](media/anjungan-umum-nik.png)
 
 Gambar 3. 4 Cetak Tiket Antrian Pasien Baru JKN/BPJS Masukan NIK
 
-![](media/image37.png)
+![](media/anjungan-jkn-nik.png)
 
 Gambar 3. 5 Cetak Tiket Antrian Pasien Baru Umum/JKN/BPJS Pilih Poli
 
-![](media/image38.png)
+![](media/anjungan-poli-umum.png)
 
 Gambar 3. 6 Cetak Antrian Pasien Baru Umum Cetak Tiket
 
-![](media/image39.png)
+![](media/anjungan-cetak-tiket-umum.png)
 
 Gambar 3. 7 Tampilan Tiket Antrian Pasien Baru Umum
 
-![](media/image40.png)
+![](media/anjungan-tiket-umum.png)
 
 Gambar 3. 8 Tampilan Tiket Antrian Pasien Baru JKN/BPJS
 
-![](media/image41.png)
+![](media/3-8-tiket-pasien-baru-jkn.png)
 
 Setelah Pasien Baru Cetak tiket antrian maka pasien bisa langsung menuju pendaftaran untuk menunggu antrian Pendaftaran yang akan didaftarkan dan dimasukan datanya ke SIKDA dan selanjutnya jika pasien umum lanjut ke Kasir untuk pembayaran pelayanan, dan jika pasien JKN bisa langsung menuju Poli untuk menunggu antrian Poli.
 
@@ -445,40 +442,39 @@ Pasien lama adalah pasien yang sudah pernah berkunjung dan berobat ke puskesmas 
 
 Gambar 3. 9 Cetak Antrian Pasien Lama
 
-![](media/image42.png)
+![](media/3-9-cetak-pasien-lama.png)
 
 Gambar 3. 10 Cetak Antrian Pasien Lama Input Data NIK/RM Pasien Umum
 
-![](media/image43.png)
+![](media/3-10-pasien-lama-nik.png)
 
 Gambar 3. 11 Cetak Antrian Pasien Lama Input Data NIK/RM/No. BPJS Pasien JKN/BPJS
 
-![](media/image44.png)
+![](media/3-11-cetak-antrian-nik-jkn.png)
 
 Gambar 3. 12 Cetak Antrian Pasien Lama Verifikasi Data Pasien Umum
 
-![](media/image45.png)
+![](media/3-12-cetak-pasien-lama-verifikasi.png)
 
 Gambar 3. 13 Cetak Antrian Pasien Lama Verifikasi Data Pasien JIKN/BPJS
 
-![](media/image46.png)
+![](media/3-13-cetak-pasien-jkn-verifikasi.png)
 
 Gambar 3. 14 Cetak Antrian Pasien Lama Pilih Poli
 
-![](media/image47.png){width="5.297019903762029in"
-height="1.8087106299212599in"}
+![](media/3-14-cetak-antrian-pasien-lama-pilih-poli.png)
 
 Gambar 3. 15 Cetak Antrian Pasien Lama sudah dapat nomor antrian
 
-![](media/image48.png)
+![](media/3-15-cetak-antrian-pasien-lama-dapat-no-antrian.png)
 
 Gambar 3. 16 Tampilan Tiket Antrian Pasien Lama Umum
 
-![](media/image49.png)
+![](media/3-16-tiket-antrian-lama-umum.png)
 
 Gambar 3. 17 Tampilan Tiket Antrian Pasien Lama JIKN/BPJS
 
-![](media/image50.png)
+![](media/3-17-tiket-antrian-lama-jkn.png)
 
 # PENGGUNAAN UNTUK PETUGAS PENDAFTARAN
 
@@ -494,7 +490,7 @@ Langkah-langkah:
 
 Gambar 2. 30 Login akun Pendaftaran
 
-![](media/image7.png)
+![](media/login.png)
 
 1)  Klik tombol \"Login\".
 
@@ -502,18 +498,18 @@ Setelah berhasil, Anda akan masuk ke halaman pendaftaran.
 
 Gambar 4. 1 Halaman Loket Pendaftaran
 
-![](media/image53.png)
+![](media/4-1-loket-pandaftaran-page.png)
 
 ## Memanggil antrian pasien baru
 
 Langkah-langkah:
 
 1)  Klik tombol Panggil Antrian
-    ![](media/image51.png) untuk memanggil pasien.
+    ![](media/panggil-pasien.png) untuk memanggil pasien.
 
 Gambar 4. 2 Tombol untuk memanggil Pasien
 
-![](media/image54.png)
+![](media/4-2-tombol-panggil-pasien.png)
 
 2)  Setelah pasien datang ke pendaftaran dilanjutkan dengan proses
     pendaftaran pasien di SIKDA.
@@ -524,7 +520,7 @@ Daftarkan pasien baru di sistem SIKDA, prosesnya sama dengan yang sekarang biasa
 
 Gambar 4. 3 Proses Pendaftaran Pasien Baru di SIKDA
 
-![](media/image55.png)
+![](media/4-3-proses-sikda.png)
 
 ## Selesaikan / Validasi Proses Pendaftaran
 
@@ -532,21 +528,21 @@ Langkah-langkahnya:
 
 1)  Setelah selasai mendaftarakan di SIKDA, selanjutnya di aplikasi
     antrian di halaman pendaftaran klik tombol
-    ![](media/image52.png) "Selesai Pendaftaran", maka sistem
+    ![](media/selesaikan-pasien.png) "Selesai Pendaftaran", maka sistem
     akan mengecek apakah data identitas sudah ada di database SIKDA,
     jika ada maka akan menmpilkan konfirmasi pembayaran.
 
 Gambar 4. 4 Tombol Selesaikan Pendaftaran
 
-![](media/image56.png)
+![](media/4-4-selesaikan-pendaftaran.png)
 
 2)  Konfirmasikan Pembayaran, jika pasien JKN/BPJS silahkan untuk klik
-    ![](media/image57.png), jika pasien umum silahkan untuk
-    klik ![](media/image58.png).
+    ![](media/sudah-bayar.png), jika pasien umum silahkan untuk
+    klik ![](media/belum-bayar.png).
 
 Gambar 4. 5 Konfirmasi Pembayaran Pasien
 
-![](media/image59.png)
+![](media/4-5-konfirmasi-pembayaran.png)
 
 3)  Jika sudah dikonfirmasi pembayarannya maka data pasien yang tadinya
     ada di data antrian akan otomatis hilang dan diarahkan pasiennya ke
@@ -555,7 +551,7 @@ Gambar 4. 5 Konfirmasi Pembayaran Pasien
 
 # PENGGUNAAN UNTUK PETUGAS KASIR
 
-Sebagai petugas kasir, Anda memulai tugas dengan melakukan login ke akun kasir pada aplikasi antrian puskesmas untuk mengakses halaman kasir. Setelah masuk, sistem akan menampilkan daftar pasien yang telah dirujuk dari pendaftaran atau poli bagi yang terlewat pembayaran untuk melakukan pembayaran; untuk memanggil pasien, klik tombol ![](media/image60.png)\"Panggil Antrian Kasir\" yang akan menampilkan nomor dan nama pasien pada monitor tunggu serta mengaktifkan panggilan suara. Setelah pasien datang ke loket, lakukan proses pembayaran untuk pasien umum, lalu klik tombol ![](media/image61.png) 'Sudah Bayar' untuk menandai bahwa pasien sudah membayar dan lunas, selanjutnya pasien umum diarahkan untuk menuju ke poli untuk menunggu pelayanan kesehatan.
+Sebagai petugas kasir, Anda memulai tugas dengan melakukan login ke akun kasir pada aplikasi antrian puskesmas untuk mengakses halaman kasir. Setelah masuk, sistem akan menampilkan daftar pasien yang telah dirujuk dari pendaftaran atau poli bagi yang terlewat pembayaran untuk melakukan pembayaran; untuk memanggil pasien, klik tombol ![](media/penggil-pasien.png)\"Panggil Antrian Kasir\" yang akan menampilkan nomor dan nama pasien pada monitor tunggu serta mengaktifkan panggilan suara. Setelah pasien datang ke loket, lakukan proses pembayaran untuk pasien umum, lalu klik tombol ![](media/selesaikan-pasien.png) 'Sudah Bayar' untuk menandai bahwa pasien sudah membayar dan lunas, selanjutnya pasien umum diarahkan untuk menuju ke poli untuk menunggu pelayanan kesehatan.
 
 ## Login ke Akun Kasir
 
@@ -567,7 +563,7 @@ Langkah-langkah:
 
 Gambar 5. 1 Login akun Kasir
 
-![](media/image7.png)
+![](media/login.png)
 
 3)  Klik tombol \"Login\".
 
@@ -575,19 +571,19 @@ Setelah berhasil, Anda akan masuk ke halaman kasir.
 
 Gambar 5. 2 Halaman Kasir
 
-![](media/image62.png)
+![](media/5-2-halaman-kasir.png)
 
 ## Memanggil Antrian Pasien untuk Pembayaran
 
-Untuk memanggil pasien bisa klik tombol ![](media/image60.png) "Panggil Antrian" maka akan muncul audio pemanggilan antrian.
+Untuk memanggil pasien bisa klik tombol ![](media/panggil-pasien.png) "Panggil Antrian" maka akan muncul audio pemanggilan antrian.
 
 Gambar 5. 3 Tampilan Tombol Panggil Pasien Kasir, Sudah Bayar, dan Status Pembayaran
 
-![](media/image63.png)
+![](media/5-3-page-kasir.png)
 
 ## Proses Pembayaran (Pasien Umum)
 
-Jika pasien sudah bayar maka petugas kasir menandai bahwa pasien sudah membayar dengan klik tombol ![](media/image61.png) "Sudah Bayar" seperti gambar diatas, maka pasien yang sudah bayar akan otomatis hilang dan tersisi pasien lain yang belum bayar.
+Jika pasien sudah bayar maka petugas kasir menandai bahwa pasien sudah membayar dengan klik tombol ![](media/selesaikan-pasien.png) "Sudah Bayar" seperti gambar diatas, maka pasien yang sudah bayar akan otomatis hilang dan tersisi pasien lain yang belum bayar.
 
 # PENGGUNAAN UNTUK PETUGAS POLI
 
@@ -601,7 +597,7 @@ Langkah-langkah:
 
 Gambar 6. 1 Login akun loket poli
 
-![](media/image7.png)
+![](media/login.png)
 
 1)  Klik tombol \"Login\".
 
@@ -609,7 +605,7 @@ Setelah berhasil, Anda akan masuk ke halaman Poli.
 
 Gambar 6. 2 Tampilan Halaman Poli
 
-![](media/image64.png)
+![](media/6-2-poli-page.png)
 
 ## Memanggil antrian poli
 
@@ -617,7 +613,7 @@ Untuk memanggil antrian Poli tekan tombol "Panggil Antrian".
 
 Gambar 6. 3 Panggil Antrian Poli
 
-![](media/image65.png)
+![](media/6-3-panggil-poli.png)
 
 ## Input Pelayanan Kesehatan di SIKDA
 
@@ -625,15 +621,15 @@ Setelah pasien di panggil maka klik tombol ![](media/image66.png) "Dilayani" unt
 
 Gambar 6. 4 Memulai Pelayanan Poli
 
-![](media/image67.png)
+![](media/6-4-pelayanan-poli.png)
 
 Gambar 6. 5 Proses Pelayanan Pasien di SIKDA
 
-![](media/image68.png)
+![](media/6-5-proses-pelayanan-sikda.png)
 
 Gambar 6. 6 Selesaikan Pelayanan Poli
 
-![](media/image69.png)
+![](media/6-6-selesaikan-poli.png)
 
 ## Keterangan Tambahan Pelayanan
 
@@ -641,7 +637,7 @@ Pemanggilan di rekomendasikan sesuai dengan urutan antrian nomor poli dan yang s
 
 Gambar 6. 7 Keterangan icon tambahan di Pelayanan
 
-![](media/image70.png)
+![](media/6-7-icon-pelayanan.png)
 
 # LAMPIRAN
 
