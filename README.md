@@ -655,17 +655,17 @@ Gambar 6. 7 Keterangan icon tambahan di Pelayanan
 
 > Aplikasi Antiran Development
 
-| Aplikasi Antrian Dev       | Akses                                     | Keterangan              |
-| -------------------------- | ----------------------------------------- | ----------------------- |
-| Jaringan Intranet (Dinkes) | http://10.11.10.23                        | Untuk Belajar Pemakaian |
-| Jaringan Internet (Public) | http://http://103.189.138.56              | Untuk Belajar Pemakaian |
+| Aplikasi Antrian Dev       | Akses                        | Keterangan              |
+| -------------------------- | ---------------------------- | ----------------------- |
+| Jaringan Intranet (Dinkes) | http://10.11.10.23           | Untuk Belajar Pemakaian |
+| Jaringan Internet (Public) | http://http://103.189.138.56 | Untuk Belajar Pemakaian |
 
 > Aplikasi Antiran Production
 
-| Aplikasi Antrian Prod      | Akses              | Keterangan          |
-| -------------------------- | ------------------ | ------------------- |
-| Jaringan Intranet (Dinkes) | http://10.00.00.00 | Pemakaian data Real |
-| Jaringan Internet (Public) | http://10.00.00.00 | Pemakaian data Real |
+| Aplikasi Antrian Prod      | Akses              | Keterangan             |
+| -------------------------- | ------------------ | ---------------------- |
+| Jaringan Intranet (Dinkes) | http://10.11.10.80 | Pemakaian data Real    |
+| Jaringan Internet (Public) | http://00.00.00.00 | Belum di set /tersedia |
 
 
 ### Aplikasi SIKDA Kota Bandung
