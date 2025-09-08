@@ -1,5 +1,7 @@
+### DOKUMENTASI
 ![logo-antrian](media/logo-antrian-transparent.png)
-# DOKUMENTASI APLIKASI ANTRIAN DINKES KOTA BANDUNG
+
+##### Update : 8 September 2025
 
 # PENDAHULUAN
 
@@ -22,8 +24,6 @@ waktu tunggu dan meningkatkan efisiensi bagi pasien maupun petugas.
 ![Swimlane Diagram Aplikasi](media/swimlane-antrian-dinkes.png)
 
 ### Fitur Utama
-
-<!-- <iframe width="560" height="615" src="https://www.youtube.com/embed/6i0AA0cDTW4?si=CaQdguL0K2ztTxl6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
 1)  Anjungan Mandiri
 
@@ -646,6 +646,10 @@ Gambar 6. 7 Keterangan icon tambahan di Pelayanan
 
 > Petunjuk Teknis / Manual Book versi PDF : <a href="https://drive.google.com/file/d/1ucNyZfD94ymCCKPHEgbAdJelifDYH-7u/view?usp=sharing" target="_blank">Lihat / Download disini</a>
 
+## Tutorial Video
+
+> Paparan Teknis / Materi Sosialisasi Update Aplikasi Antrian : <a href="https://www.canva.com/design/DAGxt613Noc/908zRDeYF8HaAcnsmFoDdg/view?utm_content=DAGxt613Noc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h08d04e08bf" target="_blank">Lihat disini</a>
+
 ## Link Akses Aplikasi
 
 
@@ -655,17 +659,17 @@ Gambar 6. 7 Keterangan icon tambahan di Pelayanan
 
 > Aplikasi Antiran Development
 
-| Aplikasi Antrian Dev       | Akses                        | Keterangan              |
-| -------------------------- | ---------------------------- | ----------------------- |
-| Jaringan Intranet (Dinkes) | http://10.11.10.23           | Untuk Belajar Pemakaian |
-| Jaringan Internet (Public) | http://http://103.189.138.56 | Untuk Belajar Pemakaian |
+| Aplikasi Antrian Dev       | Akses                 | Keterangan              |
+| -------------------------- | --------------------- | ----------------------- |
+| Jaringan Intranet (Dinkes) | http://10.11.10.23    | Untuk Belajar Pemakaian |
+| Jaringan Internet (Public) | http://103.189.138.56 | Untuk Belajar Pemakaian |
 
 > Aplikasi Antiran Production
 
-| Aplikasi Antrian Prod      | Akses              | Keterangan             |
-| -------------------------- | ------------------ | ---------------------- |
-| Jaringan Intranet (Dinkes) | http://10.11.10.80 | Pemakaian data Real    |
-| Jaringan Internet (Public) | http://00.00.00.00 | Belum di set /tersedia |
+| Aplikasi Antrian Prod      | Akses                 | Keterangan          |
+| -------------------------- | --------------------- | ------------------- |
+| Jaringan Intranet (Dinkes) | http://10.11.10.80    | Pemakaian data Real |
+| Jaringan Internet (Public) | http://103.189.138.57 | Pemakaian data Real |
 
 
 ### Aplikasi SIKDA Kota Bandung
