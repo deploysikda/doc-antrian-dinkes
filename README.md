@@ -1,7 +1,11 @@
-### DOKUMENTASI
+#### [CHANGELOG | LOG PEMBARUAN APLIKASI](CHANGELOG.md)
+
+### DOKUMENTASI TEKNIS
 ![logo-antrian](media/logo-antrian-transparent.png)
 
 ##### Update : 8 September 2025
+
+
 
 # PENDAHULUAN
 
