@@ -41,6 +41,58 @@ Tanggal: 15 September 2025
 
 ---
 
+
+
+## 1.1.1 - 10-12-25
+
+Version: 1.1.1 |
+Tanggal: 10 Desember 2025
+
+### ADDED
+---
+
+#### [ AKUN ADMIN PUSKESMAS ]
+- [ AKUN ADMIN ] -> Suara Pemanggilan antrian di bagian Poli bisa di rubah menjadi "Ruangan".
+  
+![suara-panggilan-poli](media/changelog-1-1-1-1-atur-suara-panggil-poli.png)
+
+- [ AKUN ADMIN ] -> Jika ip server tidak di set di bagian admin puskesmas, maka secara default akan terhubung dengan server yang berada di Dinas.
+  
+![default-server](media/changelog-1-1-1-3-ip-kosong-akan-konek-ke-server-dinas.png)
+
+- [ AKUN ADMIN ] [ MODE BRIDGING SIKDA PASIEN UMUM ] -> Terdapat 2 Mode Bridging SIKDA, silahkan disesuaikan dengan kondisi alur di puskesmas masing-masing.
+  
+![default-server](media/changelog-1-1-1-7-mode-bridging-sikda.png)
+![default-server](media/changelog-1-1-1-8-pilih-mode-bridging-sikda.png)
+
+#### [ AKUN PENDAFTARAN PUSKESMAS ]
+- [ AKUN PENDAFTARAN ] -> Terdapat penambahan tombol skip dan batal di akun loket pendaftaran.
+  
+![tombol-skip-batal](media/changelog-1-1-1-4-tombol-skip-batal.png)
+
+#### [ AKUN ANJUNGAN PUSKESMAS ]
+- [ AKUN ANJUNGAN ] -> Terdapat keterangan usia di popup verifikasi bagian kanan bawah.
+  
+![keterangan-usia](media/changelog-1-1-1-5-keterangan-usia.png)
+
+
+
+### CHANGED
+---
+#### [ AKUN ANJUNGAN ]
+- [ AKUN ANJUNGAN ] -> Cara bayar pasien sesuai dengan kondisi saat cetak antrian, jika pasien umum maka data cara bayar nya akan tunai, jika pasien jkn maka cara bayar nya akan jkn.
+  
+![cara-bayar-pasien-anjungan](media/changelog-1-1-1-2-cara-bayar-pasien-sesuai-kondisi-saat-cetak-antrian.png)
+
+#### [ AKUN PENDAFTARAN ]
+- [ AKUN PENDAFTARAN ] -> Dibagian pasien Ketika klik Selesai akan muncul verifikasi pasien yang tadinya BPJS/Gratis menjadi di pisah Gratis dan BPSJ, kemudian ada keterangan usia pasien tersebut. 
+  
+![cara-bayar-pasien-anjungan](media/changelog-1-1-1-6-pemisahan-usia-keterangan-usia.png)
+
+---
+
+
+
 <!-- ## [1.1.0] - 2025-08-10
 ### Added
 - Integrasi dengan SIKDA Kota Bandung.
