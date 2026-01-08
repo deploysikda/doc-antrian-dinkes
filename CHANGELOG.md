@@ -3,6 +3,77 @@
 
 <!-- ![logo-antrian](media/logo-antrian-transparent.png) -->
 
+## 1.1.3 - 08-01-26
+
+Version: 1.1.3 |
+Tanggal: 08 Januari 2025
+
+### CHANGED
+---
+#### [ AKUN ADMIN PUSKESMAS ]
+- [ PENGATURAN PASIEN BPJS ] -> Pasien BPJS hanya dapat mendaftar pada FKTP yang sesuai dengan data BPJSnya.
+  
+Pilih di pengaturan untuk memilih kondisi 
+
+![pilih-kondisi](media/changelog-1-1-3-pilih-kondisi-pasien.png)
+
+![kondisi-cara-bayar](media/changelog-1-1-3-kondisi-pasien-bpjs_19-12-25.png)
+
+- [ PENGATURAN PASIEN IMUNISASI ] -> Pendaftaran KIA Imunisasi akan dijadikan gratis untuk semua pasien
+  
+Pilih di pengaturan untuk memilih kondisi 
+
+![pilih-kondisi](media/changelog-1-1-3-3-kondisi_cara_bayar_pasien_imunisasi.png)
+![pilih-kondisi](media/changelog-1-1-3-4-output_cara_bayar_pasien_imunisasi.png)
+
+
+- [ SUARA PEMANGGILAN PASIEN DI POLI ] -> Pemanggilan pasien di poli bisa sesuaikan sesuai dengan preferensi di puskesmas.
+  
+Pilih di pengaturan untuk setting nama pemanggilan
+
+![pilih-kondisi](media/changelog-1-1-3-5-pengaturan-pemanggilan-suara-poli.png)
+
+Di bagian Poliklinik pilih Edit untuk mengatur custom suara per poli
+
+![pilih-kondisi](media/changelog-1-1-3-6-edit-custom-suara-poli.png)
+
+Akan muncul Popup dan klik Text to Sound untuk membuat custom sound
+
+![pilih-kondisi](media/changelog-1-1-3-7-texttosound-custom-suara-poli.png)
+
+Buat custom text sendiri di soundoftext.com
+
+![pilih-kondisi](media/changelog-1-1-3-8-texttosound-custom-suara-poli-generate.png)
+
+Download untuk disimpan di komputer yang nantinya akan di upload di pengaturan antrian dinkes
+
+![pilih-kondisi](media/changelog-1-1-3-9-texttosound-custom-suara-poli-download.png)
+
+Kembali ke Pengaturan Antrian Dinkes pilih custom
+
+![pilih-kondisi](media/changelog-1-1-3-10-custom-suara-poli-set.png)
+
+Di bagian Audio Pemanggilan pilih file yang sudah di download dari sounoftext.com dan pilih file audio nya untuk di upload.
+
+![pilih-kondisi](media/changelog-1-1-3-11-custom-suara-poli-upload.png)
+
+Kemudia klik tombol Simpan jika sudah selesai.
+
+![pilih-kondisi](media/changelog-1-1-3-12-custom-suara-poli-simpan.png)
+
+Jika sudah di set maka suara pemanggilan akan ada penambahan custom suara seperti yang sudah di set.
+
+
+#### [ AKUN POLI PUSKESMAS ]
+
+- [ FILTERING POLI DAN NAKES ] -> Di akun user poli bisa juga memanggil pasien di poli lain, sehingga satu user poli bisa digunakan untuk banyak poli.
+
+![pilih-kondisi](media/changelog-1-1-3-13-filter-poli-nakes.png)
+
+---
+
+
+
 ## 1.1.2 - 15-12-25
 
 Version: 1.1.2 |
