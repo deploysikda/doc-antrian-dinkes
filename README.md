@@ -1,4 +1,5 @@
 #### [CHANGELOG | LOG PEMBARUAN APLIKASI](CHANGELOG.md)
+#### [BRIDGING BPJS | UPDATE BRIDGING ANTRIAN DENGAN BPJS](BRIDGING_BPJS.md)
 
 ### DOKUMENTASI TEKNIS
 ![logo-antrian](media/logo-antrian-transparent.png)
