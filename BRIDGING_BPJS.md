@@ -14,6 +14,41 @@ Pada versi pembaruan ini, aplikasi telah mendukung integrasi data antrian secara
 
 ---
 
+### [ UPDATED: 21 April 2026 ]
+
+---
+
+#### 1. [ Fitur Check-In Pasien Mobile JKN di Anjungan ]
+
+Role: Anjungan
+
+Fitur yang difungsikan untuk memantau pasien sudah hadir di puskesmas atau belum, jika belum check-in maka belum datang pasien tersebut, untuk check-in pasien tinggal menginputkan no. bpjs ke anjungan, dan jika di perlukan pasien Mobile JKN bisa mencetak tiket antrian yang nomor nya sama ketika mendaftar di mobile jkn, tetapi jika pasien salah mendaftar poli maka pasien diarahkan untuk memilih poli yang sesuai namun antrian nya akan mengikuti antrian poli yang di pilih.
+
+![Fitur Check-In di Anjungan](media/check-in-anjungan.png)
+![Fitur Check-In di Anjungan Pilih Pasien](media/check-in-anjungan-pasien.png)
+![Fitur Check-In di Anjungan Pilih Poli](media/check-in-anjungan-poli.png)
+![Fitur Check-In di Anjungan Pilih Cetak](media/check-in-anjungan-cetak.png)
+
+> Jika Pasien Mobile JKN terlewat nomor antrian nya, maka nomor antrian nya akan menyesuaikan dengan nomor antrian yang terakhir di ambil oleh pasien lain.
+
+![Status Belum Hadir](media/check-in-anjungan-telat-pasien.png)
+
+#### 2. [ Status Check-in di Poli ]
+
+Role: Poli
+
+Status keterangan pasien Mobile JKN bisa terlihat di menu Poli pada kolom Nomor Poli,
+
+![Status Belum Hadir](media/check-in-poli-status-sudah-belum-hadir.png)
+
+#### 3. [ Keterangan Icon Status Antrian Poli ]
+
+Role: Poli
+
+Terdapat Icon Status Antrian tambahan di Poli yaitu, Kuota JKN (Mobile JKN), Kuota Anjungan, dan Antrian Terakhir yang dilayani.
+
+![Status Belum Hadir](media/check-in-poli-status-icon.png)
+
 ### [ UPDATED: 08 April 2026 ]
 
 ---
