@@ -14,6 +14,42 @@ Pada versi pembaruan ini, aplikasi telah mendukung integrasi data antrian secara
 
 ---
 
+
+### [ UPDATED: 12 Mei 2026 ]
+
+---
+
+#### 1. [ Fitur Validasi Rentang Usia Mobile JKN ]
+
+Role: Admin
+
+Fitur yang difungsikan untuk meminimalisir kesalahan pemilihan poli atau dokter, ketika satu poli bpjs mempunyai beberapa poli atau dokter, sehingga walaupun pasien memilih dokter yang salah, sistem akan mem validasi dari usia pasien untuk pemilihan dokter nya.
+
+Untuk pengaturan nya masuka ke bagian Master Data -> Poliklinik -> Edit kemudia pilih poli yang akan di set rentang umurnya, lanjut set pilihan menu Rentang Umur, aktifkan dan atur rentang umur nya, begitu juga ketika di poli yang sama lainnya.
+
+Gambar Pengaturan set Rentang Umur di Poli.
+
+![Fitur Check-In di Anjungan](media/set-rentang-umur-poli-1.png)
+
+Selanjutnya masuk ke Pengaturan pilih tab Mobile JKN dan aktifkan Poli BPJS yang akan di aktifkan fitur rentang umurnya.
+
+Gambar set aktivasi poli bpjs fitur rentang umur.
+
+![Fitur Check-In di Anjungan](media/rentang-umur-set-pengaturan.png)
+
+
+Di Jadwal Praktek ditampilkan Keterangan Poli, rentang umur dan kode dokter BPJS.
+
+Gambar Keterangan Poli, rentang umur dan kode dokter BPJS tampil di jadwal praktek.
+
+![Fitur Check-In di Anjungan](media/rentang-umur-di-jadwal.png)
+
+
+
+
+
+
+
 ### [ UPDATED: 21 April 2026 ]
 
 ---
