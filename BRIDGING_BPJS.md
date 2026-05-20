@@ -14,8 +14,26 @@ Pada versi pembaruan ini, aplikasi telah mendukung integrasi data antrian secara
 
 ---
 
+### [ UPDATED: 20 Mei 2026 ]
+
+Version: 2.3.2
+
+---
+
+#### 1. [ Fitur Batas Jam Pendaftaran Pasien di Mobile JKN ]
+
+Role: Admin
+
+Fitur yang difungsikan untuk membatasi jam pendaftaran pasien di mobile jkn.
+Untuk pengaturan nya masuka ke bagian Pengaturan -> Tab Mobile JKN lanjut tentukan jam batas pendaftaran nya.
+
+Gambar Pengaturan set Batas Pendaftaran di Mobile JKN.
+
+![Fitur Check-In di Anjungan](media/batas-jam-pendaftaran-m-jkn.png)
 
 ### [ UPDATED: 12 Mei 2026 ]
+
+Version: 2.3.1
 
 ---
 
@@ -37,20 +55,15 @@ Gambar set aktivasi poli bpjs fitur rentang umur.
 
 ![Fitur Check-In di Anjungan](media/rentang-umur-set-pengaturan.png)
 
-
 Di Jadwal Praktek ditampilkan Keterangan Poli, rentang umur dan kode dokter BPJS.
 
 Gambar Keterangan Poli, rentang umur dan kode dokter BPJS tampil di jadwal praktek.
 
 ![Fitur Check-In di Anjungan](media/rentang-umur-di-jadwal.png)
 
-
-
-
-
-
-
 ### [ UPDATED: 21 April 2026 ]
+
+Version: 2.2.3
 
 ---
 
@@ -86,6 +99,8 @@ Terdapat Icon Status Antrian tambahan di Poli yaitu, Kuota JKN (Mobile JKN), Kuo
 ![Status Belum Hadir](media/check-in-poli-status-icon.png)
 
 ### [ UPDATED: 08 April 2026 ]
+
+Version: 2.1.4
 
 ---
 
