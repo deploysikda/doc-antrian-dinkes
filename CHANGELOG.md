@@ -4,6 +4,56 @@
 
 <!-- ![logo-antrian](media/logo-antrian-transparent.png) -->
 
+
+## 2.5.2 - 29-05-26
+
+Version: 2.5.2 |
+Tanggal: 20 Mei 2025
+
+### ADDED
+
+---
+
+#### [ AKUN POLI ]
+
+- [ FITUR CHECK-IN TIDAK MERUBAH NO. ANTRIAN MOBILE JKN ] -> Fitur Check-in dengan no. antrian tetap sesuai mJKN baik antrian terlewat ataupun tidak, kecuali berganti poli.
+
+Pilih di pengaturan untuk mengaktifkan nya.
+
+Gambar Pengaktifan Fitur No. Antrian Tetap
+![pilih-kondisi](media/no-antrian-tetap.png)
+
+Gambar Tampilan Fitur Cetak Antrian Aktif ketika check-in pasien mobile jkn di anjungan
+![pilih-kondisi](media/no-antrian-tetap_aktif.png)
+
+Gambar Tampilan Fitur Cetak Antrian Tidak Aktif ketika check-in pasien mobile jkn di anjungan
+![pilih-kondisi](media/no-antrian-tetap_tidak_aktif.png)
+
+
+## 2.5.1 - 29-05-26
+
+Version: 2.5.1 |
+Tanggal: 20 Mei 2025
+
+### ADDED
+
+---
+
+#### [ AKUN POLI ]
+
+- [ FITUR URUTAN PASIEN BERDASARKAN JAM KEHADIRAN ] -> Fitur Urutan Pasien yang belum hadir / belum check-in berada di urutan terakhir, dengan catatan no. antrian poli akan menjadi tidak teratur.
+
+Pilih di pengaturan untuk mengaktifkan nya.
+
+Gambar Pengaktifan Fitur Urutan berdasarkan jam kedatangan
+![pilih-kondisi](media/sort-jam-datang.png)
+
+Gambar Tampilan Fitur Urutan berdasarkan jam kedatangan
+![pilih-kondisi](media/sort-jam-datang-2.png)
+
+
+
+
 ## 2.4.1 - 20-05-26
 
 Version: 2.4.1 |
