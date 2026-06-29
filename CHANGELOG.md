@@ -24,9 +24,11 @@ Gambar Pengaktifan Fitur No. Antrian Tetap
 ![pilih-kondisi](media/no-antrian-tetap.png)
 
 Gambar Tampilan Fitur Cetak Antrian Aktif ketika check-in pasien mobile jkn di anjungan
+
 ![pilih-kondisi](media/no-antrian-tetap_aktif.png)
 
 Gambar Tampilan Fitur Cetak Antrian Tidak Aktif ketika check-in pasien mobile jkn di anjungan
+
 ![pilih-kondisi](media/no-antrian-tetap_tidak_aktif.png)
 
 
