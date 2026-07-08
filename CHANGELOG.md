@@ -4,6 +4,33 @@
 
 <!-- ![logo-antrian](media/logo-antrian-transparent.png) -->
 
+## 2.6.0 - 08-07-26
+
+Version: 2.6.0 |
+Tanggal: 08 Juli 2026
+
+### ADDED
+
+---
+
+#### [ AKUN ADMIN PUSKESMAS ]
+
+- [ FITUR EDIT DATA PASIEN OLEH ADMIN ] -> Penambahan fitur bagi admin puskesmas untuk dapat memperbaiki atau mengubah data pasien secara langsung melalui dashboard, meminimalisir kesalahan data saat akan dilayani di poli.
+
+Gambar Letak Edit Pasien Admin:
+![Letak Edit Pasien Admin](media/letak-edit-pasien-admin.png)
+
+Gambar Form Edit Pasien Admin:
+
+![Form Edit Pasien Admin](media/form-edit-pasien-admin.png)
+
+#### [ AKUN PENDAFTARAN PUSKESMAS ]
+
+- [ FITUR FILTER POLIKLINIK ] -> Penambahan fitur filter berdasarkan poliklinik di halaman pendaftaran. Fitur ini memudahkan petugas pendaftaran untuk menyaring dan melihat antrian pasien berdasarkan poliklinik tujuan secara spesifik.
+
+Gambar Fitur Filter Poliklinik:
+![Filter Poli Pendaftaran](media/filter-poli-pendaftaran.png)
+
 ## 2.5.1 - 29-05-26
 
 Version: 2.5.1 |

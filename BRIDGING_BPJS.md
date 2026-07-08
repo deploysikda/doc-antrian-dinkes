@@ -14,6 +14,46 @@ Pada versi pembaruan ini, aplikasi telah mendukung integrasi data antrian secara
 
 ---
 
+### [ UPDATED: 08 Juli 2026 ]
+
+Version: 2.6.0
+
+---
+
+#### 1. [ FITUR VALIDASI JADWAL PRAKTEK ]
+
+Role: Admin | Anjungan
+
+Fitur ini difungsikan untuk memvalidasi ketersediaan jadwal praktek dokter. Dengan adanya fitur ini, sistem akan mengecek apakah jadwal praktek dokter sudah tersedia dan aktif. Jika jadwal tidak tersedia atau dokter sedang tidak praktek, maka pasien tidak akan bisa mendaftar ke poli tersebut, sehingga mencegah antrian fiktif atau ketidaksesuaian jadwal dengan Mobile JKN.
+
+Gambar Tampilan Fitur Validasi Jadwal Praktek:
+
+![Validasi Jadwal Praktek](media/validasi-jadwal-praktek.png)
+
+#### 2. [ FITUR PENAMBAHAN NAMA PASIEN DI TIKET ANTRIAN ]
+
+Role: Anjungan
+
+Fitur ini difungsikan untuk menampilkan nama pasien secara langsung di tiket antrian yang dicetak. Penambahan nama ini berlaku bagi pencetakan tiket untuk pasien lama (Umum/BPJS) serta pasien Mobile JKN yang melakukan check-in melalui mesin anjungan. Hal ini bertujuan untuk memberikan kepastian kepada pasien bahwa tiket yang dicetak benar-benar atas nama mereka.
+
+Gambar Tampilan Penambahan Nama di Tiket Antrian:
+
+![Penambahan Nama Pasien di Tiket](media/show-nama-di-tiket.png)
+
+#### 3. [ FITUR EDIT DATA PASIEN OLEH ADMIN ]
+
+Role: Admin
+
+Fitur ini difungsikan untuk memudahkan admin puskesmas dalam mengubah atau memperbaiki data pasien secara langsung melalui dashboard antrian. Dengan adanya fitur ini, jika terdapat kesalahan data identitas, perbaikan dapat langsung dilakukan tanpa harus membatalkan antrian. Fitur ini sangat bermanfaat untuk memastikan data BPJS dan profil pasien akurat sebelum dilayani di poli.
+
+Gambar Letak Tombol Edit Pasien:
+
+![Letak Edit Pasien](media/letak-edit-pasien-admin.png)
+
+Gambar Form Edit Data Pasien:
+
+![Form Edit Pasien](media/form-edit-pasien-admin.png)
+
 ### [ UPDATED: 29 Mei 2026 ]
 
 Version: 2.5.2
