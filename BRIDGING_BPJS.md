@@ -14,6 +14,31 @@ Pada versi pembaruan ini, aplikasi telah mendukung integrasi data antrian secara
 
 ---
 
+### [ UPDATED: 29 Mei 2026 ]
+
+Version: 2.5.2
+
+---
+
+#### 1. [ FITUR CHECK-IN TIDAK MERUBAH NO. ANTRIAN MOBILE JKN ]
+
+Role: Anjungan | Admin
+
+Fitur Check-in dengan no. antrian tetap sesuai mJKN baik antrian terlewat ataupun tidak, kecuali berganti poli.
+
+Pilih di pengaturan untuk mengaktifkan nya.
+
+Gambar Pengaktifan Fitur No. Antrian Tetap
+![pilih-kondisi](media/no-antrian-tetap.png)
+
+Gambar Tampilan Fitur Cetak Antrian Aktif ketika check-in pasien mobile jkn di anjungan
+
+![pilih-kondisi](media/no-antrian-tetap_aktif.png)
+
+Gambar Tampilan Fitur Cetak Antrian Tidak Aktif ketika check-in pasien mobile jkn di anjungan
+
+![pilih-kondisi](media/no-antrian-tetap_tidak_aktif.png)
+
 ### [ UPDATED: 20 Mei 2026 ]
 
 Version: 2.3.2
