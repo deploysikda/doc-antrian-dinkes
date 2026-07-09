@@ -4,10 +4,10 @@
 
 <!-- ![logo-antrian](media/logo-antrian-transparent.png) -->
 
-## 2.6.0 - 08-07-26
+## 2.6.0 - 09-07-26
 
 Version: 2.6.0 |
-Tanggal: 08 Juli 2026
+Tanggal: 09 Juli 2026
 
 ### ADDED
 
@@ -30,6 +30,22 @@ Gambar Form Edit Pasien Admin:
 
 Gambar Fitur Filter Poliklinik:
 ![Filter Poli Pendaftaran](media/filter-poli-pendaftaran.png)
+
+#### [ AKUN ANJUNGAN ]
+
+- [ FITUR LOG STATUS ANTRIAN, LOKET, DAN BRIDGING BPJS ] -> Penambahan fitur untuk memantau rekam jejak (log) status antrian pasien, log status loket, serta log status bridging ke BPJS secara terperinci. Fitur ini bertujuan untuk mempermudah pengecekan dan pelacakan (troubleshooting) riwayat sinkronisasi data pendaftaran dan antrian pasien.
+
+Gambar Log Status Antrian:
+![Log Status Antrian](media/log-antrian-pasien.png)
+
+Gambar Log Status Loket:
+![Log Status Loket](media/log-loket-pasien.png)
+
+Gambar Log Status Bridging BPJS (Gagal):
+![Log Bridging Salah](media/log-status-bridging-salah.png)
+
+Gambar Log Status Bridging BPJS (Berhasil):
+![Log Bridging Benar](media/log-status-bridging-benar.png)
 
 ## 2.5.1 - 29-05-26
 

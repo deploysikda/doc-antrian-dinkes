@@ -14,7 +14,7 @@ Pada versi pembaruan ini, aplikasi telah mendukung integrasi data antrian secara
 
 ---
 
-### [ UPDATED: 08 Juli 2026 ]
+### [ UPDATED: 09 Juli 2026 ]
 
 Version: 2.6.0
 
@@ -22,7 +22,7 @@ Version: 2.6.0
 
 #### 1. [ FITUR VALIDASI JADWAL PRAKTEK ]
 
-Role: Admin | Anjungan
+Role: Admin
 
 Fitur ini difungsikan untuk memvalidasi ketersediaan jadwal praktek dokter. Dengan adanya fitur ini, sistem akan mengecek apakah jadwal praktek dokter sudah tersedia dan aktif. Jika jadwal tidak tersedia atau dokter sedang tidak praktek, maka pasien tidak akan bisa mendaftar ke poli tersebut, sehingga mencegah antrian fiktif atau ketidaksesuaian jadwal dengan Mobile JKN.
 
@@ -53,6 +53,42 @@ Gambar Letak Tombol Edit Pasien:
 Gambar Form Edit Data Pasien:
 
 ![Form Edit Pasien](media/form-edit-pasien-admin.png)
+
+#### 4. [ FITUR CETAK ULANG TIKET ANTRIAN PASIEN MOBILE JKN (CHECK-IN) ]
+
+Role: Anjungan
+
+Fitur ini difungsikan untuk memfasilitasi pencetakan ulang tiket antrian bagi pasien pengguna Mobile JKN yang sudah melakukan check-in. Jika pasien lupa mencetak tiket pada saat check-in atau tiket sebelumnya rusak/hilang, pasien dapat mencetak ulang tiket antrian tersebut melalui menu ini di mesin anjungan tanpa merubah status atau nomor antrian yang sudah ada.
+
+Gambar Tampilan Fitur Cetak Ulang:
+
+![Cetak Ulang Mobile JKN](media/cetak-ulang-mjkn.png)
+
+Gambar Tiket Cetak Ulang:
+
+![Tiket Cetak Ulang](media/tiket-cetak-ulang-mjkn.png)
+
+#### 5. [ FITUR LOG STATUS ANTRIAN, LOKET, DAN BRIDGING BPJS ]
+
+Role: Admin
+
+Fitur ini difungsikan untuk memantau rekam jejak (log) riwayat antrian pasien, log aktivitas status loket, serta log status bridging pengiriman task id ke BPJS. Dengan adanya log riwayat ini, pengguna dapat dengan mudah melakukan pelacakan (troubleshooting) dan memastikan bahwa data antrian pasien tersinkronisasi dan berhasil terkirim ke server BPJS.
+
+Gambar Log Status Antrian:
+
+![Log Status Antrian](media/log-antrian-pasien.png)
+
+Gambar Log Status Loket:
+
+![Log Status Loket](media/log-loket-pasien.png)
+
+Gambar Log Status Bridging BPJS (Gagal):
+
+![Log Bridging Salah](media/log-status-bridging-salah.png)
+
+Gambar Log Status Bridging BPJS (Berhasil):
+
+![Log Bridging Benar](media/log-status-bridging-benar.png)
 
 ### [ UPDATED: 29 Mei 2026 ]
 
