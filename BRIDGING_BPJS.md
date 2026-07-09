@@ -90,6 +90,20 @@ Gambar Log Status Bridging BPJS (Berhasil):
 
 ![Log Bridging Benar](media/log-status-bridging-benar.png)
 
+#### 6. [ PERUBAHAN ALIRAN DATA SISTEM ANTRIAN DINKES ]
+
+Role: Poli
+
+Fitur ini merupakan pembaruan pada alur data sistem antrian Dinkes. Sekarang, ketika tombol "Dilayani" di-klik pada halaman poli, data pasien akan secara otomatis diteruskan dan masuk ke SIKDA (Sistem Informasi Kesehatan Daerah). Pembaruan ini mempercepat proses pelayanan karena tidak memerlukan sinkronisasi manual lagi, serta dilengkapi dengan tanda atau indikator khusus bahwa pasien sudah berhasil masuk ke SIKDA.
+
+Gambar Flow Baru - Klik Dilayani Pasien Masuk SIKDA:
+
+![Flow Klik Dilayani](media/flow-baru-klik-dilayani-pasien-masuk-sikda.png)
+
+Gambar Flow Baru - Tanda Pasien Masuk SIKDA:
+
+![Tanda Pasien Masuk SIKDA](media/flow-baru-tanda-pasien-masuk-sikda.png)
+
 ### [ UPDATED: 29 Mei 2026 ]
 
 Version: 2.5.2
