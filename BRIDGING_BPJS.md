@@ -14,6 +14,51 @@ Pada versi pembaruan ini, aplikasi telah mendukung integrasi data antrian secara
 
 ---
 
+### [ UPDATED: 13 Juli 2026 ]
+
+Version: 2.7.0
+
+---
+
+#### 1. [ FITUR PUSKESMAS KELILING (PUSLING) ]
+
+Role: Pusling
+
+Fitur Puskesmas Keliling (Pusling) merupakan pengembangan strategis pada Sistem Antrean Dinkes yang dirancang untuk memperluas jangkauan layanan kesehatan di luar gedung instansi utama. Integrasi fitur ini bertujuan utama untuk meningkatkan data cakupan antrean online BPJS Kesehatan secara signifikan serta memastikan validasi status pasien secara real-time.
+
+Melalui fitur ini, petugas Pusling dapat melakukan monitoring dan pengecekan status pasien secara langsung di lapangan, sehingga output akhir status pasien BPJS berhasil terintegrasi sebagai Bridging Antrean / Mobile JKN.
+
+Sistem menambahkan hak akses baru untuk mendukung operasional lapangan, yaitu **Role User Pusling**. Untuk setiap satu akun User Pusling, sistem menyediakan **dua fitur utama** yang terintegrasi:
+
+Manajemen Akses & Role User Baru
+
+- **Fitur Anjungan (Pusling)**
+  - **Fungsi:** Bertindak sebagai modul pendaftaran dan pengambilan antrean portabel di lokasi pelayanan keliling.
+  - **Deskripsi:** Petugas dapat menginput data pasien (NIK atau Nomor Kartu BPJS) ke dalam sistem antrean terintegrasi saat berada di lapangan.
+- **Fitur Loket (Pusling)**
+  - **Fungsi:** Bertindak sebagai modul pemanggilan dan manajemen pelayanan pasien oleh tenaga medis.
+  - **Deskripsi:** Mengelola nomor antrean yang telah diambil, melakukan pemanggilan pasien, dan mencatat status penyelesaian layanan secara langsung.
+
+Manfaat Utama Fitur
+
+1.  **Peningkatan Capaian Antrean Online:** Membantu mengonversi pelayanan luar gedung yang sebelumnya manual menjadi terhitung dalam cakupan antrean online BPJS Kesehatan.
+2.  **Efisiensi Sinkronisasi Data:** Menghilangkan risiko duplikasi data atau keterlambatan input data pelayanan luar gedung ke sistem pusat.
+3.  **Standarisasi Layanan:** Memberikan akurasi validasi status kepesertaan pasien BPJS yang setara dengan pelayanan di dalam gedung Puskesmas utama.
+
+Gambar Tampilan User Pusling:
+
+![User Pusling](media/pusling-user.png)
+
+Gambar Tampilan Loket Pusling:
+
+![Loket Pusling](media/pusling-loket.png)
+
+Gambar Tampilan Anjungan Pusling:
+
+![Anjungan Pusling](media/pusling-anjungan.png)
+
+---
+
 ### [ UPDATED: 09 Juli 2026 ]
 
 Version: 2.6.0
