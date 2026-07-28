@@ -4,6 +4,22 @@
 
 <!-- ![logo-antrian](media/logo-antrian-transparent.png) -->
 
+## 2.7.1 - 28-07-26
+
+Version: 2.7.1 |
+Tanggal: 28 Juli 2026
+
+### ADDED
+
+---
+
+#### [ AKUN ADMIN & POLI ]
+
+- [ FITUR URUTKAN BERDASARKAN KEDATANGAN PASIEN ] -> Penambahan fitur untuk mengurutkan daftar antrian pasien berdasarkan waktu kehadiran (check-in) mereka di faskes. Fitur ini dapat diatur oleh Admin dan digunakan oleh Poli untuk memastikan pelayanan dilakukan secara adil dan teratur sesuai jam kedatangan secara aktual.
+
+Gambar Fitur Urutkan Berdasarkan Kedatangan:
+![Urutan Kedatangan Pasien](media/urutan-waktu-kedatangan.png)
+
 ## 2.6.0 - 09-07-26
 
 Version: 2.6.0 |
