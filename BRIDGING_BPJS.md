@@ -30,6 +30,33 @@ Gambar Tampilan Perubahan Cetak Tiket Antrian pasien BPJS di Anjungan:
 
 ![Tampilan Perubahan Cetak Pasien BPJS](media/tampilan-perubahan-cetak-pasienbpjs.png)
 
+#### 2. [ PERUBAHAN EDIT PASIEN DI ANTRIAN ]
+
+Role: Admin & Loket
+
+Pada fitur Edit Identitas / Edit Pasien di antrian, kini terdapat perubahan alur pengecekan status kepesertaan BPJS Kesehatan. Dalam rangka optimasi dan efisiensi hit API BPJS, sistem tidak lagi melakukan pengecekan status BPJS secara otomatis ketika modal edit data dibuka. Petugas atau admin harus menekan tombol **"Cek Kepesertaan BPJS"** secara manual untuk memverifikasi keaktifan serta data kepesertaan pasien sebelum menyimpan perubahan.
+
+Gambar Tampilan Perubahan Edit Pasien di Antrian:
+
+![Perubahan Edit Pasien di Antrian](media/perubahan-edit-pasien-antrian.png)
+
+#### 3. [ PERUBAHAN CEK KEPESERTAAN DI PENDAFTARAN ]
+
+Role: Pendaftaran / Loket
+
+Pada menu Pendaftaran, terdapat perubahan alur verifikasi data pasien BPJS Kesehatan. Dalam rangka optimasi dan efisiensi hit pengecekan BPJS, pengecekan kepesertaan tidak dilakukan secara otomatis saat data pasien ditampilkan. Petugas pendaftaran kini harus mengklik tombol cara bayar **"BPJS"** terlebih dahulu untuk memulai pengecekan kepesertaan.
+
+Setelah tombol BPJS diklik, sistem akan menampilkan pop-up hasil verifikasi status kepesertaan BPJS pasien:
+- Jika status kepesertaan valid dan aktif, petugas dapat menekan tombol **"Selesaikan Pendaftaran"** untuk menyelesaikan proses pendaftaran antrian.
+- Jika data kepesertaan tidak sesuai atau berstatus tidak aktif, petugas dapat membatalkan atau mengalihkan status cara bayar pasien menjadi pasien umum.
+
+Gambar Tampilan Pengecekan Kepesertaan Setelah Klik BPJS di Pendaftaran:
+
+![Pengecekan Kepesertaan Klik BPJS di Pendaftaran](media/perubahan-cek-kepesertaan-pendaftaran-klik-bpjs.png)
+
+Gambar Tampilan Hasil Validasi Status Kepesertaan BPJS:
+
+![Status Kepesertaan BPJS di Pendaftaran](media/perubahan-cek-kepesertaan-pendaftaran-status-bpjs.png)
 
 ---
 
