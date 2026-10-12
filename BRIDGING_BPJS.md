@@ -14,6 +14,25 @@ Pada versi pembaruan ini, aplikasi telah mendukung integrasi data antrian secara
 
 ---
 
+### [ UPDATED: 12 Oktober 2026 ]
+
+Version: 2.8.0
+
+---
+
+#### 1. [ PERUBAHAN CETAK TIKET ANTRIAN PASIEN BPJS DI ANJUNGAN ]
+
+Role: Anjungan
+
+Dalam rangka optimasi dan efisiensi hit pengecekan kepesertaan pasien bpjs, Pada fitur Anjungan Pasien BPJS, terdapat perubahan pada alur pencetakan tiket antrian. Pasien BPJS yang melakukan pencetakan tiket antrian melalui mesin anjungan, kini tidak langsung mengeluarkan status kepesertaan BPJS, melainkan harus memilih terlebih dahulu data pasien nya, setelah itu baru kepesertaan pasien bpjs dari pasien yang dipilih tadi akan ditampilkan, setelah itu sepertia biasa pilih poli dan akan mendapatkan no. antrian kemudian mencetak tiket antrian pasien.
+
+Gambar Tampilan Perubahan Cetak Tiket Antrian pasien BPJS di Anjungan:
+
+![Tampilan Perubahan Cetak Pasien BPJS](media/tampilan-perubahan-cetak-pasienbpjs.png)
+
+
+---
+
 ### [ UPDATED: 13 Juli 2026 ]
 
 Version: 2.7.0

@@ -4,6 +4,29 @@
 
 <!-- ![logo-antrian](media/logo-antrian-transparent.png) -->
 
+## 2.8.0 - 12-10-26
+
+Version: 2.8.0 |
+Tanggal: 12 Oktober 2026
+
+### ADDED
+
+---
+
+#### [ AKUN ADMIN PUSKESMAS ]
+
+- [ FITUR MONITORING KONEKSI SERVER ANTREAN (PERANGKAT TERHUBUNG) ] -> Penambahan menu Monitoring pada halaman backend admin untuk memantau status konektivitas perangkat secara real-time yang terhubung ke server antrean. Fitur ini menampilkan indikator status server utama (Online), waktu pembaruan terakhir, serta pemantauan perangkat yang terhubung dalam kategori Loket, Audio, dan Display. Dilengkapi juga dengan aksi refresh massal ('Muat Ulang' dan 'Refresh Semua') untuk memudahkan pengecekan serta pemulihan koneksi perangkat.
+
+Gambar Fitur Monitoring Koneksi Server Antrean:
+
+![Monitoring Koneksi Server Antrean](media/monitoring-koneksi-server-antrian.png)
+
+- [ FITUR PENGATURAN KONDISI AUDIO ] -> Penambahan fitur pengaturan audio pemanggilan antrian pada menu Pengaturan (Backend). Fitur ini memungkinkan admin untuk mengonfigurasi pemutaran suara panggilan antrian, seperti mengaktifkan atau menonaktifkan suara pembuka dan penutup (Intro dan Outro Audio), serta mengatur tempo/kecepatan suara (Kecepatan Suara) agar artikulasi pemanggilan nomor antrian lebih jelas dan dapat disesuaikan dengan kebutuhan operasional puskesmas.
+
+Gambar Fitur Pengaturan Kondisi Audio:
+
+![Pengaturan Kondisi Audio](media/pengaturan-kondisi-audio.png)
+
 ## 2.7.1 - 28-07-26
 
 Version: 2.7.1 |
